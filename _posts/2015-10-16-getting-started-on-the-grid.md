@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-10-16T14:33:02.734Z'
-dateModified: '2015-10-16T14:32:49.828Z'
+datePublished: '2015-10-16T14:39:02.697Z'
+dateModified: '2015-10-16T14:38:27.237Z'
 title: Getting Started on The Grid
 author: []
 sourcePath: _posts/2015-10-16-getting-started-on-the-grid.md
@@ -23,9 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Getting Started on The Grid
-
-Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
+Getting Started on The Grid
+null
 
 ## Creating a Site
 
