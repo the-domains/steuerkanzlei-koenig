@@ -1,6 +1,5 @@
 name: Steuerkanzlei König
 favicon: null
-layout_spectrum: 0
 title: Steuerkanzlei König
 cta:
   domain: null
@@ -27,5 +26,5 @@ color:
   rhythmicContrast: 0.25
 purpose:
   - name: awareness
-    item: null
+    item: ecd569d5-3030-4edd-93b2-70e097ecd826
     url: null
