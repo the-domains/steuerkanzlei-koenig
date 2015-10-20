@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Leistungen der Steuerkanzlei König
-datePublished: '2015-10-20T13:35:44.973Z'
-dateModified: '2015-10-20T13:35:38.737Z'
+datePublished: '2015-10-20T14:19:01.817Z'
+dateModified: '2015-10-20T14:18:57.569Z'
 title: Unsere Leistungen
 sourcePath: _posts/2015-10-16-unsere-leistungen.md
 published: true
@@ -18,7 +18,7 @@ publisher:
   url: null
   favicon: null
 url: unsere-leistungen/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Unsere Leistungen
