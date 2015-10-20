@@ -1,8 +1,7 @@
 name: Steuerkanzlei König
 favicon: null
-layout_spectrum: 0.2307
-typography_spectrum: 0.51988
-title: Steuerkanzlei König
+layout_spectrum: null
+typography_spectrum: null
 cta:
   domain: null
   bucket: null
@@ -17,16 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#000000'
-    - '#000000'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0
-  lightness: 0.875
-  saturation: 0.1875
-  rhythmicContrast: 0.25
-purpose:
-  - name: awareness
-    item: ecd569d5-3030-4edd-93b2-70e097ecd826
-    url: null
+    - '#ffffff'
+    - '#1a8fd9'
+    - '#4d4d4d'
+    - '#0d376c'
+    - '#b2b2b2'
+  brandStrength: 0.5
+  lightness: null
+  saturation: null
+  rhythmicContrast: null
+purpose: []
