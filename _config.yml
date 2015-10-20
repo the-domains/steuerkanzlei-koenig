@@ -20,7 +20,7 @@ color:
     - '#0d376c'
     - '#b2b2b2'
   brandStrength: 0.5
-  lightness: null
+  lightness: 0.5
   saturation: null
   rhythmicContrast: null
 purpose: []
