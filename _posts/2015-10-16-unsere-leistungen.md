@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Leistungen der Steuerkanzlei König
-datePublished: '2015-10-20T14:19:01.817Z'
-dateModified: '2015-10-20T14:18:57.569Z'
+datePublished: '2015-10-22T15:42:11.200Z'
+dateModified: '2015-10-22T15:42:05.186Z'
 title: Unsere Leistungen
 sourcePath: _posts/2015-10-16-unsere-leistungen.md
 published: true
